@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
-  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:ab385fdb-193f-4564-886e-99d45b26961c</dc:identifier>
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:efd427b3-878b-4396-b865-492595b11990</dc:identifier>
     <dc:title>An Open Letter to Ron Paul Supporters</dc:title>
     <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
     <dc:language>en</dc:language>
     <dc:date opf:event="modification">2014-06-28</dc:date>
-    <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
     <dc:source>http://moldbuggery.blogspot.com/</dc:source>
-    <meta content="0.7.4" name="Sigil version" />
+    <dc:contributor opf:role="trc">@jbboehr</dc:contributor>
+    <dc:date opf:event="publication">2008-01-10</dc:date>
+    <meta content="0.7.4" name="Sigil version" xmlns="http://www.idpf.org/2007/opf" />
   </metadata>
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
     <item href="Styles/stylesheet.css" id="stylesheet.css" media-type="text/css" />
     <item href="Text/open-letter-to-ron-paul-supporters-part.html" id="open-letter-to-ron-paul-supporters-part.html" media-type="application/xhtml+xml" />
     <item href="Text/how-to-actually-defeat-us-government.html" id="how-to-actually-defeat-us-government.html" media-type="application/xhtml+xml" />
-    <item href="Text/revipedia-how-to-defeat-us-government.html" id="revipedia-how-to-defeat-us-government.html" />
+    <item href="Text/revipedia-how-to-defeat-us-government.html" id="revipedia-how-to-defeat-us-government.html" media-type="application/xhtml+xml" />
     <item href="Text/how-to-defeat-us-government-summary.html" id="how-to-defeat-us-government-summary.html" media-type="application/xhtml+xml" />
     <item href="Text/title.html" id="title.html" media-type="application/xhtml+xml" />
     <item href="Fonts/philosopher.ttf" id="philosopher.ttf" media-type="application/x-font-ttf" />
@@ -33,7 +33,7 @@
     <itemref idref="how-to-defeat-us-government-summary.html" />
   </spine>
   <guide>
-    <reference href="Text/title.html" title="Title Page" type="title-page" />
-    <reference href="Text/open-letter-to-ron-paul-supporters-part.html" title="Text" type="text" />
+    <reference href="Text/title.html" title="Title Page" type="title-page" xmlns="http://www.idpf.org/2007/opf" />
+    <reference href="Text/open-letter-to-ron-paul-supporters-part.html" title="Text" type="text" xmlns="http://www.idpf.org/2007/opf" />
   </guide>
 </package>
