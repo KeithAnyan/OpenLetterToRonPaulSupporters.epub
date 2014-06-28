@@ -6,7 +6,7 @@
     <dc:title>An Open Letter to Ron Paul Supporters</dc:title>
     <dc:creator opf:role="aut">Mencius Moldbug</dc:creator>
     <dc:language>en</dc:language>
-    <dc:date opf:event="modification">2014-06-23</dc:date>
+    <dc:date opf:event="modification">2014-06-28</dc:date>
     <dc:contributor opf:role="edt">@jbboehr</dc:contributor>
     <dc:contributor opf:role="aut">Mencius Moldbug</dc:contributor>
     <dc:source>http://moldbuggery.blogspot.com/</dc:source>
@@ -32,4 +32,8 @@
     <itemref idref="revipedia-how-to-defeat-us-government.html" />
     <itemref idref="how-to-defeat-us-government-summary.html" />
   </spine>
+  <guide>
+    <reference href="Text/title.html" title="Title Page" type="title-page" />
+    <reference href="Text/open-letter-to-ron-paul-supporters-part.html" title="Text" type="text" />
+  </guide>
 </package>
