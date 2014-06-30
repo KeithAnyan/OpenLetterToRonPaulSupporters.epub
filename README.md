@@ -3,15 +3,15 @@
 A series of essays by [Mencius Moldbug](http://unqualified-reservations.blogspot.com/)
 
 Original Articles:
-[part 1](http://unqualified-reservations.blogspot.com/2008/01/open-letter-to-ron-paul-supporters-part.html)
-[part 2](http://unqualified-reservations.blogspot.com/2008/01/how-to-actually-defeat-us-government.html)
-[part 3](http://unqualified-reservations.blogspot.com/2008/01/revipedia-how-to-defeat-us-government.html)
-[part 4](http://unqualified-reservations.blogspot.com/2008/01/how-to-defeat-us-government-summary.html)
+* [part 1](http://unqualified-reservations.blogspot.com/2008/01/open-letter-to-ron-paul-supporters-part.html)
+* [part 2](http://unqualified-reservations.blogspot.com/2008/01/how-to-actually-defeat-us-government.html)
+* [part 3](http://unqualified-reservations.blogspot.com/2008/01/revipedia-how-to-defeat-us-government.html)
+* [part 4](http://unqualified-reservations.blogspot.com/2008/01/how-to-defeat-us-government-summary.html)
 
 Download:
-[epub](http://jbboehr.github.io/OpenLetterToRonPaulSupporters.epub/OpenLetterToRonPaulSupporters.epub)
-[mobi](http://jbboehr.github.io/OpenLetterToRonPaulSupporters.epub/OpenLetterToRonPaulSupporters.mobi)
-[pdf](http://jbboehr.github.io/OpenLetterToRonPaulSupporters.epub/OpenLetterToRonPaulSupporters.pdf)
+[epub](http://keithanyan.github.io/OpenLetterToRonPaulSupporters.epub/OpenLetterToRonPaulSupporters.epub)
+[mobi](http://keithanyan.github.io/OpenLetterToRonPaulSupporters.epub/OpenLetterToRonPaulSupporters.mobi)
+[pdf](http://keithanyan.github.io/OpenLetterToRonPaulSupporters.epub/OpenLetterToRonPaulSupporters.pdf)
 
 
 ## License
